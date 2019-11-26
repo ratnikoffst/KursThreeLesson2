@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KursThreeLesson2</string>
+    <string-array name="country">
+        <item>Абхазия</item>
+        <item>Беларусь</item>
+        <item>Израиль</item>
+        <item>Казахстан</item>
+        <item>Россия</item>
+        <item>Украина</item>
+    </string-array>
+    <string-array name="temperature">
+        <item>30.3</item>
+        <item>20.2</item>
+        <item>40.4</item>
+        <item>44.0</item>
+        <item>-2.0</item>
+        <item>10.0</item>
+    </string-array>
+</resources>
